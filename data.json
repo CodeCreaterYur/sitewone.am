@@ -1,0 +1,82 @@
+{
+  "bestSellers": [
+    {
+      "image": "images/img_1.jpg",
+      "link": "#",
+      "name": "Product Name 1",
+      "description": "Brief description of product 1.",
+      "purchased": 1200,
+      "viewed": 500
+    },
+    {
+      "image": "images/img_2.jpg",
+      "link": "#",
+      "name": "Product Name 2",
+      "description": "Brief description of product 2.",
+      "purchased": 980,
+      "viewed": 4500
+    },
+    {
+      "image": "images/img_3.jpg",
+      "link": "#",
+      "name": "Product Name 3",
+      "description": "Brief description of product 3.",
+      "purchased": 1500,
+      "viewed": 6000
+    },
+    {
+      "image": "images/img_4.jpg",
+      "link": "#",
+      "name": "Product Name 4",
+      "description": "Brief description of product 4.",
+      "purchased": 1100,
+      "viewed": 5200
+    }
+  ],
+
+  "testimonials": [
+    {
+      "image": "images/person_2.jpg",
+      "name": "Adam Adersonm",
+      "text": "There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+    },
+    {
+      "image": "images/person_3.jpg",
+      "name": "Lukas Devlin",
+      "text": "There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+    },
+    {
+      "image": "images/person_4.jpg",
+      "name": "Kayla Bryant",
+      "text": "There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+    }
+  ],
+
+  "shorts": [
+    {
+      "video": "mmm.mp4",
+      "likes": 120,
+      "views": 3000
+    },
+    {
+      "video": "ccc.mp4",
+      "likes": 340,
+      "views": 4500
+    },
+    {
+      "video": "ppp.mp4",
+      "likes": 340,
+      "views": 40
+    },
+    {
+      "video": "ppp.mp4",
+      "likes": 3400,
+      "views": 500000
+    },
+    {
+      "video": "ppp.mp4",
+      "likes": 340,
+      "views": 45000
+    }
+  ]
+}
